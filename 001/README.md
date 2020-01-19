@@ -10,3 +10,4 @@ https://doorbw.tistory.com/46
 
 [바로가기](https://doorbw.tistory.com/46 target="_blank")
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
